@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  CalendarViewController.h
 //  SimpleCalendar
 //
 //  Created by hiway on 7/27/13.
@@ -7,8 +7,8 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "SimpleCalendar.h"
 
-@interface ViewController : UIViewController
+@interface CalendarViewController : UIViewController<SimpleCalendarDelegate>
 
-- (IBAction)calendarViewAction:(id)sender;
 @end

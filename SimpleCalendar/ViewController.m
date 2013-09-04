@@ -7,6 +7,8 @@
 //
 
 #import "ViewController.h"
+#import "SimpleCalendar.h"
+#import "CalendarViewController.h"
 
 @interface ViewController ()
 
@@ -18,6 +20,9 @@
 {
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
+    
+    self.title  = @"MainView";
+
 }
 
 - (void)didReceiveMemoryWarning
@@ -26,4 +31,9 @@
     // Dispose of any resources that can be recreated.
 }
 
+- (IBAction)calendarViewAction:(id)sender {
+    
+    CalendarViewController *controller = [[CalendarViewController alloc] init];
+    [self.navigationController pushViewController:controller animated:YES];
+}
 @end
