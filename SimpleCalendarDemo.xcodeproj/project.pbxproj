@@ -18,12 +18,12 @@
 		DF2A2D9617A2DC4700D8AB82 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = DF2A2D9517A2DC4700D8AB82 /* Default-568h@2x.png */; };
 		DF2A2D9917A2DC4700D8AB82 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = DF2A2D9817A2DC4700D8AB82 /* ViewController.m */; };
 		DF2A2D9C17A2DC4700D8AB82 /* ViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = DF2A2D9A17A2DC4700D8AB82 /* ViewController.xib */; };
-		DF2A2DA517A2E0EF00D8AB82 /* SimpleCalendar.m in Sources */ = {isa = PBXBuildFile; fileRef = DF2A2DA417A2E0EF00D8AB82 /* SimpleCalendar.m */; };
-		DF2A2DA717A2E10C00D8AB82 /* SimpleCalendar.xib in Resources */ = {isa = PBXBuildFile; fileRef = DF2A2DA617A2E10C00D8AB82 /* SimpleCalendar.xib */; };
-		DF2A2DAA17A3B34600D8AB82 /* SimpleCalendarItemCell.m in Sources */ = {isa = PBXBuildFile; fileRef = DF2A2DA917A3B34600D8AB82 /* SimpleCalendarItemCell.m */; };
-		DF2A2DAC17A3B36500D8AB82 /* SimpleCalendarItemCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = DF2A2DAB17A3B36500D8AB82 /* SimpleCalendarItemCell.xib */; };
-		DF2A2DAF17A3C0CD00D8AB82 /* SimpleCalendarDay.m in Sources */ = {isa = PBXBuildFile; fileRef = DF2A2DAE17A3C0CC00D8AB82 /* SimpleCalendarDay.m */; };
 		DF2A2DB317A3C61000D8AB82 /* CalendarViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = DF2A2DB117A3C61000D8AB82 /* CalendarViewController.m */; };
+		DFE8539B17D6E89C00D794BE /* SimpleCalendar.m in Sources */ = {isa = PBXBuildFile; fileRef = DFE8539417D6E89C00D794BE /* SimpleCalendar.m */; };
+		DFE8539C17D6E89C00D794BE /* SimpleCalendar.xib in Resources */ = {isa = PBXBuildFile; fileRef = DFE8539517D6E89C00D794BE /* SimpleCalendar.xib */; };
+		DFE8539D17D6E89C00D794BE /* SimpleCalendarDay.m in Sources */ = {isa = PBXBuildFile; fileRef = DFE8539717D6E89C00D794BE /* SimpleCalendarDay.m */; };
+		DFE8539E17D6E89C00D794BE /* SimpleCalendarItemCell.m in Sources */ = {isa = PBXBuildFile; fileRef = DFE8539917D6E89C00D794BE /* SimpleCalendarItemCell.m */; };
+		DFE8539F17D6E89C00D794BE /* SimpleCalendarItemCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = DFE8539A17D6E89C00D794BE /* SimpleCalendarItemCell.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -43,16 +43,16 @@
 		DF2A2D9717A2DC4700D8AB82 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
 		DF2A2D9817A2DC4700D8AB82 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		DF2A2D9B17A2DC4700D8AB82 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/ViewController.xib; sourceTree = "<group>"; };
-		DF2A2DA317A2E0EF00D8AB82 /* SimpleCalendar.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SimpleCalendar.h; sourceTree = "<group>"; };
-		DF2A2DA417A2E0EF00D8AB82 /* SimpleCalendar.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SimpleCalendar.m; sourceTree = "<group>"; };
-		DF2A2DA617A2E10C00D8AB82 /* SimpleCalendar.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = SimpleCalendar.xib; sourceTree = "<group>"; };
-		DF2A2DA817A3B34600D8AB82 /* SimpleCalendarItemCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SimpleCalendarItemCell.h; sourceTree = "<group>"; };
-		DF2A2DA917A3B34600D8AB82 /* SimpleCalendarItemCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SimpleCalendarItemCell.m; sourceTree = "<group>"; };
-		DF2A2DAB17A3B36500D8AB82 /* SimpleCalendarItemCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = SimpleCalendarItemCell.xib; sourceTree = "<group>"; };
-		DF2A2DAD17A3C0CC00D8AB82 /* SimpleCalendarDay.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SimpleCalendarDay.h; sourceTree = "<group>"; };
-		DF2A2DAE17A3C0CC00D8AB82 /* SimpleCalendarDay.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SimpleCalendarDay.m; sourceTree = "<group>"; };
 		DF2A2DB017A3C60F00D8AB82 /* CalendarViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CalendarViewController.h; sourceTree = "<group>"; };
 		DF2A2DB117A3C61000D8AB82 /* CalendarViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CalendarViewController.m; sourceTree = "<group>"; };
+		DFE8539317D6E89C00D794BE /* SimpleCalendar.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SimpleCalendar.h; sourceTree = "<group>"; };
+		DFE8539417D6E89C00D794BE /* SimpleCalendar.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SimpleCalendar.m; sourceTree = "<group>"; };
+		DFE8539517D6E89C00D794BE /* SimpleCalendar.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = SimpleCalendar.xib; sourceTree = "<group>"; };
+		DFE8539617D6E89C00D794BE /* SimpleCalendarDay.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SimpleCalendarDay.h; sourceTree = "<group>"; };
+		DFE8539717D6E89C00D794BE /* SimpleCalendarDay.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SimpleCalendarDay.m; sourceTree = "<group>"; };
+		DFE8539817D6E89C00D794BE /* SimpleCalendarItemCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SimpleCalendarItemCell.h; sourceTree = "<group>"; };
+		DFE8539917D6E89C00D794BE /* SimpleCalendarItemCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SimpleCalendarItemCell.m; sourceTree = "<group>"; };
+		DFE8539A17D6E89C00D794BE /* SimpleCalendarItemCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = SimpleCalendarItemCell.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,7 +99,7 @@
 		DF2A2D8517A2DC4700D8AB82 /* SimpleCalendarDemo */ = {
 			isa = PBXGroup;
 			children = (
-				DF2A2DA217A2E0D000D8AB82 /* SimpleCalendar */,
+				DFE8539217D6E89C00D794BE /* SimpleCalendar */,
 				DF2A2D8E17A2DC4700D8AB82 /* AppDelegate.h */,
 				DF2A2D8F17A2DC4700D8AB82 /* AppDelegate.m */,
 				DF2A2D9717A2DC4700D8AB82 /* ViewController.h */,
@@ -127,19 +127,19 @@
 			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
-		DF2A2DA217A2E0D000D8AB82 /* SimpleCalendar */ = {
+		DFE8539217D6E89C00D794BE /* SimpleCalendar */ = {
 			isa = PBXGroup;
 			children = (
-				DF2A2DA317A2E0EF00D8AB82 /* SimpleCalendar.h */,
-				DF2A2DA417A2E0EF00D8AB82 /* SimpleCalendar.m */,
-				DF2A2DA617A2E10C00D8AB82 /* SimpleCalendar.xib */,
-				DF2A2DA817A3B34600D8AB82 /* SimpleCalendarItemCell.h */,
-				DF2A2DA917A3B34600D8AB82 /* SimpleCalendarItemCell.m */,
-				DF2A2DAB17A3B36500D8AB82 /* SimpleCalendarItemCell.xib */,
-				DF2A2DAD17A3C0CC00D8AB82 /* SimpleCalendarDay.h */,
-				DF2A2DAE17A3C0CC00D8AB82 /* SimpleCalendarDay.m */,
+				DFE8539317D6E89C00D794BE /* SimpleCalendar.h */,
+				DFE8539417D6E89C00D794BE /* SimpleCalendar.m */,
+				DFE8539517D6E89C00D794BE /* SimpleCalendar.xib */,
+				DFE8539617D6E89C00D794BE /* SimpleCalendarDay.h */,
+				DFE8539717D6E89C00D794BE /* SimpleCalendarDay.m */,
+				DFE8539817D6E89C00D794BE /* SimpleCalendarItemCell.h */,
+				DFE8539917D6E89C00D794BE /* SimpleCalendarItemCell.m */,
+				DFE8539A17D6E89C00D794BE /* SimpleCalendarItemCell.xib */,
 			);
-			name = SimpleCalendar;
+			path = SimpleCalendar;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -198,8 +198,8 @@
 				DF2A2D9417A2DC4700D8AB82 /* Default@2x.png in Resources */,
 				DF2A2D9617A2DC4700D8AB82 /* Default-568h@2x.png in Resources */,
 				DF2A2D9C17A2DC4700D8AB82 /* ViewController.xib in Resources */,
-				DF2A2DA717A2E10C00D8AB82 /* SimpleCalendar.xib in Resources */,
-				DF2A2DAC17A3B36500D8AB82 /* SimpleCalendarItemCell.xib in Resources */,
+				DFE8539C17D6E89C00D794BE /* SimpleCalendar.xib in Resources */,
+				DFE8539F17D6E89C00D794BE /* SimpleCalendarItemCell.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -213,10 +213,10 @@
 				DF2A2D8C17A2DC4700D8AB82 /* main.m in Sources */,
 				DF2A2D9017A2DC4700D8AB82 /* AppDelegate.m in Sources */,
 				DF2A2D9917A2DC4700D8AB82 /* ViewController.m in Sources */,
-				DF2A2DA517A2E0EF00D8AB82 /* SimpleCalendar.m in Sources */,
-				DF2A2DAA17A3B34600D8AB82 /* SimpleCalendarItemCell.m in Sources */,
-				DF2A2DAF17A3C0CD00D8AB82 /* SimpleCalendarDay.m in Sources */,
 				DF2A2DB317A3C61000D8AB82 /* CalendarViewController.m in Sources */,
+				DFE8539B17D6E89C00D794BE /* SimpleCalendar.m in Sources */,
+				DFE8539D17D6E89C00D794BE /* SimpleCalendarDay.m in Sources */,
+				DFE8539E17D6E89C00D794BE /* SimpleCalendarItemCell.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

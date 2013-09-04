@@ -99,10 +99,6 @@
 								<int key="IBUIContentHorizontalAlignment">0</int>
 								<int key="IBUIContentVerticalAlignment">0</int>
 								<bool key="IBUIShowsTouchWhenHighlighted">YES</bool>
-								<object class="NSColor" key="IBUITintColor" id="925446427">
-									<int key="NSColorSpace">2</int>
-									<bytes key="NSRGB">MC41NDExNzY0OTc5IDAuNjM1Mjk0MTM5NCAwLjc2MDc4NDM4NzYAA</bytes>
-								</object>
 								<string key="IBUINormalTitle">2</string>
 								<reference key="IBUIHighlightedTitleColor" ref="963598864"/>
 								<reference key="IBUIDisabledTitleColor" ref="443730317"/>
@@ -126,7 +122,6 @@
 								<int key="IBUIContentHorizontalAlignment">0</int>
 								<int key="IBUIContentVerticalAlignment">0</int>
 								<bool key="IBUIShowsTouchWhenHighlighted">YES</bool>
-								<reference key="IBUITintColor" ref="925446427"/>
 								<string key="IBUINormalTitle">3</string>
 								<reference key="IBUIHighlightedTitleColor" ref="963598864"/>
 								<reference key="IBUIDisabledTitleColor" ref="443730317"/>
@@ -150,7 +145,6 @@
 								<int key="IBUIContentHorizontalAlignment">0</int>
 								<int key="IBUIContentVerticalAlignment">0</int>
 								<bool key="IBUIShowsTouchWhenHighlighted">YES</bool>
-								<reference key="IBUITintColor" ref="925446427"/>
 								<string key="IBUINormalTitle">4</string>
 								<reference key="IBUIHighlightedTitleColor" ref="963598864"/>
 								<reference key="IBUIDisabledTitleColor" ref="443730317"/>
@@ -174,7 +168,6 @@
 								<int key="IBUIContentHorizontalAlignment">0</int>
 								<int key="IBUIContentVerticalAlignment">0</int>
 								<bool key="IBUIShowsTouchWhenHighlighted">YES</bool>
-								<reference key="IBUITintColor" ref="925446427"/>
 								<string key="IBUINormalTitle">5</string>
 								<reference key="IBUIHighlightedTitleColor" ref="963598864"/>
 								<reference key="IBUIDisabledTitleColor" ref="443730317"/>
@@ -198,7 +191,6 @@
 								<int key="IBUIContentHorizontalAlignment">0</int>
 								<int key="IBUIContentVerticalAlignment">0</int>
 								<bool key="IBUIShowsTouchWhenHighlighted">YES</bool>
-								<reference key="IBUITintColor" ref="925446427"/>
 								<string key="IBUINormalTitle">6</string>
 								<reference key="IBUIHighlightedTitleColor" ref="963598864"/>
 								<reference key="IBUIDisabledTitleColor" ref="443730317"/>
@@ -213,7 +205,6 @@
 								<string key="NSFrame">{{270, 0}, {44, 44}}</string>
 								<reference key="NSSuperview" ref="946507981"/>
 								<reference key="NSWindow"/>
-								<reference key="NSNextKeyView"/>
 								<string key="NSReuseIdentifierKey">_NS:9</string>
 								<reference key="IBUIBackgroundColor" ref="536896619"/>
 								<bool key="IBUIOpaque">NO</bool>
@@ -222,7 +213,6 @@
 								<int key="IBUIContentHorizontalAlignment">0</int>
 								<int key="IBUIContentVerticalAlignment">0</int>
 								<bool key="IBUIShowsTouchWhenHighlighted">YES</bool>
-								<reference key="IBUITintColor" ref="925446427"/>
 								<string key="IBUINormalTitle">7</string>
 								<reference key="IBUIHighlightedTitleColor" ref="963598864"/>
 								<reference key="IBUIDisabledTitleColor" ref="443730317"/>
